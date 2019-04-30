@@ -5,7 +5,7 @@ public class EncriptionFun {
 	public static void main(String[] args) {
 		String alphabet = "abcdefghijklmnopqrstuvwxyz";
 		String encrypted ="zyxwvutsrqponmlkjihgfedcba";
-		
+		//test
 		String word="easter";
 		
 		String encword="";
